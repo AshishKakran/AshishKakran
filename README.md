@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-</head>
-<body>
-<div class="container"> 
-<h1> Hello there 👋 </h1>
+## Hello there visitor ![](https://profile-counter.glitch.me/AshishKakran/count.svg)👋 
 <main class="main-content">
-
+<p> I have customised this page, so that my repos are more accessible. Feel free to follow the links for more details</p>
 <section class="projects frontend">
 <h2>Frontend Projects</h2>
 <ul>
@@ -94,7 +85,3 @@
 </section>
 
 </main>
-
-</div>
-</body>
-</html>
